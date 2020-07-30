@@ -1,0 +1,5 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+  </action>
+</keymap>
