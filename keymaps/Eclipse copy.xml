@@ -1,5 +1,10 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="FileChooser.TogglePathShowing" />
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
   </action>
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="Print" />
 </keymap>
