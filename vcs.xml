@@ -6,6 +6,10 @@
           <option name="url" value="git@gitee.com:quany12z/SpringInActionLearn.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/ycx3430476/interview-related.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\ycx\IdeaProjects" />
