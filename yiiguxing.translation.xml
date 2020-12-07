@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="440" />
+    <option name="newTranslationDialogY" value="271" />
     <histories>
+      <item value="No archetype found in remote catalog. Defaulting to internal catalog" />
+      <item value="detected" />
       <item value="Map" />
       <item value="score" />
       <item value="xmlns:task=&quot;http:www.springframework.orgschematask&quot;" />
@@ -9,7 +14,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
   </component>
