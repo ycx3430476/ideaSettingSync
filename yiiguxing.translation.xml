@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="xmlns:task=&quot;http:www.springframework.orgschematask&quot;" />
       <item value="name" />
     </histories>
     <option name="languageScores">
